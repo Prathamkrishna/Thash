@@ -4,6 +4,10 @@
     <artifactId>EncryptAndDecrypHandler</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>The Thash Project</name>
+    <description>An encryption/decryption library that can be used with a maven project.</description>
+    <url>https://github.com/Prathamkrishna/Thash</url>
+
     <build>
         <plugins>
             <plugin>
