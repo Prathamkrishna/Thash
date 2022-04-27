@@ -15,6 +15,13 @@
         </license>
     </licenses>
 
+    <developers>
+        <developer>
+            <name>Pratham Krishna</name>
+            <email>pratham.krishna.06@gmail.com</email>
+        </developer>
+    </developers>
+
     <build>
         <plugins>
             <plugin>
