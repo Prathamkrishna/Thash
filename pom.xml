@@ -8,6 +8,13 @@
     <description>An encryption/decryption library that can be used with a maven project.</description>
     <url>https://github.com/Prathamkrishna/Thash</url>
 
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/License-2.0.txt</url>
+        </license>
+    </licenses>
+
     <build>
         <plugins>
             <plugin>
